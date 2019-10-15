@@ -1,2 +1,2 @@
-# managingGuests
-It is a Java based desktop application which helps you in managing your Guest who uses your pc.
+# ManagingGuests
+It's a Java based desktop application which helps you to manage the guests using your PC.
